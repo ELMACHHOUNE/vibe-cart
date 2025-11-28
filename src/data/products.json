@@ -1,0 +1,143 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Headphones Pro",
+    "price": 199.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop",
+    "rating": 4.5,
+    "sku": "WHP-001",
+    "description": "Premium wireless headphones with noise cancellation and 30-hour battery life.",
+    "specs": ["Bluetooth 5.0", "Active Noise Cancellation", "30h Battery", "Foldable Design"],
+    "reviews": [
+      { "author": "John D.", "rating": 5, "comment": "Amazing sound quality!" },
+      { "author": "Sarah M.", "rating": 4, "comment": "Great but a bit pricey" }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch Elite",
+    "price": 349.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop",
+    "rating": 4.8,
+    "sku": "SWE-002",
+    "description": "Advanced fitness tracker with heart rate monitor and GPS.",
+    "specs": ["GPS", "Heart Rate Monitor", "Water Resistant", "5 Day Battery"],
+    "reviews": [
+      { "author": "Mike R.", "rating": 5, "comment": "Best smartwatch I've owned" }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Minimalist Backpack",
+    "price": 89.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=600&fit=crop",
+    "rating": 4.3,
+    "sku": "MBP-003",
+    "description": "Sleek and functional backpack perfect for daily commute.",
+    "specs": ["Water Resistant", "Laptop Compartment", "USB Charging Port", "Lightweight"],
+    "reviews": [
+      { "author": "Emma L.", "rating": 4, "comment": "Very stylish and practical" }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Organic Cotton T-Shirt",
+    "price": 29.99,
+    "category": "Fashion",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=600&fit=crop",
+    "rating": 4.6,
+    "sku": "OCT-004",
+    "description": "Sustainable and comfortable everyday tee made from 100% organic cotton.",
+    "specs": ["100% Organic Cotton", "Fair Trade", "Machine Washable", "Unisex Fit"],
+    "reviews": [
+      { "author": "Alex P.", "rating": 5, "comment": "So comfortable and eco-friendly!" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Portable Bluetooth Speaker",
+    "price": 79.99,
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=600&fit=crop",
+    "rating": 4.4,
+    "sku": "PBS-005",
+    "description": "Compact speaker with powerful 360° sound and waterproof design.",
+    "specs": ["360° Sound", "IP67 Waterproof", "12h Battery", "Bluetooth 5.0"],
+    "reviews": [
+      { "author": "Chris T.", "rating": 4, "comment": "Great for outdoor adventures" }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Leather Wallet",
+    "price": 49.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&h=600&fit=crop",
+    "rating": 4.7,
+    "sku": "LWT-006",
+    "description": "Handcrafted genuine leather wallet with RFID protection.",
+    "specs": ["Genuine Leather", "RFID Blocking", "8 Card Slots", "Slim Design"],
+    "reviews": [
+      { "author": "David K.", "rating": 5, "comment": "Quality craftsmanship" }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Yoga Mat Pro",
+    "price": 59.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&h=600&fit=crop",
+    "rating": 4.5,
+    "sku": "YMP-007",
+    "description": "Non-slip eco-friendly yoga mat with alignment marks.",
+    "specs": ["Eco-Friendly Material", "Non-Slip", "6mm Thick", "Carrying Strap"],
+    "reviews": [
+      { "author": "Lisa W.", "rating": 5, "comment": "Perfect grip and cushioning" }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Stainless Steel Water Bottle",
+    "price": 34.99,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&h=600&fit=crop",
+    "rating": 4.8,
+    "sku": "SSW-008",
+    "description": "Insulated bottle that keeps drinks cold for 24h or hot for 12h.",
+    "specs": ["Double-Wall Insulated", "BPA-Free", "750ml Capacity", "Leak-Proof"],
+    "reviews": [
+      { "author": "Tom H.", "rating": 5, "comment": "Keeps water ice cold all day!" }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Desk Organizer Set",
+    "price": 39.99,
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=800&h=600&fit=crop",
+    "rating": 4.2,
+    "sku": "DOS-009",
+    "description": "Bamboo desk organizer with multiple compartments for office supplies.",
+    "specs": ["Sustainable Bamboo", "5 Compartments", "Phone Holder", "Modern Design"],
+    "reviews": [
+      { "author": "Rachel S.", "rating": 4, "comment": "Helps keep my desk tidy" }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Running Shoes Performance",
+    "price": 129.99,
+    "category": "Sports",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=600&fit=crop",
+    "rating": 4.6,
+    "sku": "RSP-010",
+    "description": "Lightweight running shoes with responsive cushioning and breathable mesh.",
+    "specs": ["Breathable Mesh", "Responsive Cushioning", "Lightweight", "Durable Outsole"],
+    "reviews": [
+      { "author": "Mark J.", "rating": 5, "comment": "Most comfortable running shoes ever!" }
+    ]
+  }
+]
